@@ -7,11 +7,31 @@ A quick start on developing machine translation with open tools and resources.
 
 ## Datasets and tools
 
+* https://github.com/Helsinki-NLP/OPUS (https://opus.nlpl.eu/)
+* https://pypi.org/project/opustools/
+* https://pypi.org/project/mtdata/
+* https://github.com/bitextor/bitextor
+
 
 ## Effective data curation
+
+* https://github.com/bitextor/bicleaner
+* https://github.com/bitextor/bicleaner-ai
+* https://github.com/Helsinki-NLP/OpusFilter [OpusFilter-hub](https://github.com/Helsinki-NLP/OpusFilter-hub)
+* https://github.com/hplt-project/empty-train
 
 
 ## Efficient training pipelines
 
+* https://github.com/browsermt/firefox-translations-training
+* https://github.com/browsermt/students
+* https://github.com/hplt-project/empty-trainer
+
 
 ## Use cases, experience, community efforts
+
+* https://github.com/Helsinki-NLP/OPUS-MT
+* https://github.com/Helsinki-NLP/Tatoeba-Challenge/
+* https://browser.mt/
+* https://github.com/Helsinki-NLP/UkrainianLT/
+* https://ufal.mff.cuni.cz/ufal-ukraine
