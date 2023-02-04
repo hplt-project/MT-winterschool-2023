@@ -32,6 +32,7 @@ A quick start on developing machine translation with open tools and resources.
 
 * https://github.com/Helsinki-NLP/OPUS-MT
 * https://github.com/Helsinki-NLP/Tatoeba-Challenge/
+* https://opus.nlpl.eu/leaderboard/
 * https://browser.mt/
 * https://github.com/Helsinki-NLP/UkrainianLT/
 * https://ufal.mff.cuni.cz/ufal-ukraine
