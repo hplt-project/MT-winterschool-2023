@@ -29,7 +29,7 @@ A quick start on developing machine translation with open tools and resources.
 * https://github.com/hplt-project/empty-trainer
 
 
-## Use cases, experience, community efforts
+## Use cases and community efforts
 
 * https://github.com/Helsinki-NLP/OPUS-MT
 * https://github.com/Helsinki-NLP/Tatoeba-Challenge/
