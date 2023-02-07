@@ -2,7 +2,8 @@
 # Democratizing Machine Translation
 
 
-A quick start on developing machine translation with open tools and resources.
+A [quick start](Democratizing_MT.pdf) on developing machine translation with open tools and resources.
+
 
 
 ## Datasets and tools
