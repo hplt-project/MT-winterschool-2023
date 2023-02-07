@@ -17,6 +17,7 @@ A quick start on developing machine translation with open tools and resources.
 
 * https://github.com/bitextor/bicleaner
 * https://github.com/bitextor/bicleaner-ai
+* https://github.com/bitextor/bifixer
 * https://github.com/Helsinki-NLP/OpusFilter (coming soon: [OpusFilter-hub](https://github.com/Helsinki-NLP/OpusFilter-hub))
 * https://github.com/hplt-project/empty-train
 
